@@ -1,0 +1,2 @@
+# PHP_CRUD_Yondu_Yoga
+This is a admin site for a fake business called Yondu Yoga. This page uses PHP to all user to login using self created user names and passwords. In the staff area they can enter their customers into the SQL database to schedule them for classes based on the type of yoga, and what time of day they want it.  It displays the entered customers in a table, and the staff members can update, and delete the scheduled customers a necessary.  
