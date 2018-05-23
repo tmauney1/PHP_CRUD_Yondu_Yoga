@@ -1,0 +1,71 @@
+header
+{
+	font-family: 'Cinzel Decorative', cursive;
+	text-decoration: none;
+	color: #71fc6a;
+}
+
+a
+{
+	text-decoration: none;
+	font-weight:bold;
+	color: #71fc6a;
+}
+
+a:hover
+{
+	color: #71fc6a;
+}
+
+h1 {
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+	color: #71fc6a;
+    padding: 5px;
+	width: 1000px;
+	font-size: 300%;
+    margin: auto;
+	padding-bottom: 5px;
+}
+
+
+
+body {
+    background-color: #f453b6;
+    color: #56494C;
+	font-family: 'Vollkorn SC', serif;
+    
+}
+
+
+table {
+		border-collapse:separate;
+		border-spacing:1px;
+		background:#56494C;
+	}
+table th {
+			background:#df42f4;
+			font-weight:600;
+			padding:10px 20px;
+			text-align:center;
+		}
+table tbody {
+			padding:0; margin:0;
+			border-collapse:collapse;
+			border-spacing:0px;
+		}
+table td {
+				background:#e978ed;
+				padding:5px 10px;
+				text-align:center;
+			}
+
+footer{
+	text-align: center;
+}
+
+
+
+
+
+
